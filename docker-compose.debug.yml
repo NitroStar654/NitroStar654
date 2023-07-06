@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  nitrostar654:
+    image: nitrostar654
+    build:
+      context: .
+      dockerfile: ./Dockerfile
