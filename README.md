@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitroStar654
-- 👀 I’m interested in CyberSecurity and AI
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning Python and web development
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me edoardo.marchesi.veglia@gmail.com
 - 💲 If you want to support me https://www.buymeacoffee.com/nitrostar654
