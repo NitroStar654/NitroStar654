@@ -12,7 +12,7 @@ Currently, I'm a high school student learning the basics of programming language
 I’m always looking for exciting new projects to collaborate on, so feel free to reach out!
 
 ## 📫 Contact Me
-Email: edoardo.marchesi.veglia@gmail.com => [GPG Key](https://keys.openpgp.org/vks/v1/by-fingerprint/5541BDAAB88BB1BA23F1D0CC88EFC320049CAE1E)
+Email: edoardo.marchesi.veglia@gmail.com => [GPG Key](https://keys.openpgp.org/vks/v1/by-fingerprint/05C5DCD8ED9CA7EC48C18954FC6DFA729C966BF9)
 
 ## ☕ Support Me
 If you'd like to support my work, you can do so [here](https://www.buymeacoffee.com/nitrostar654).
