@@ -19,4 +19,3 @@ If you'd like to support my work, you can donate crypto:
 ### 🧾 Addresses
 - **BTC**: `bc1pgjq3f42fdkk8efg6rdcepv68v2tz7xnsa78j290ff6wnl68tr59snfnrgx`
 - **ETH**: `0x08a9556dad958aec0b63186d54a9eda27df93350`
-- **ZEC**: `t1Kf7x7Ub1myyDR2pz3tsAvAv5Ly2twadJG`
