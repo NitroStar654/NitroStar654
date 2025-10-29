@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @NitroStar654
 
 ## 🧑‍💻 About Me
-My name is Edoardo, I'm a french student passionate about technology, particularly cybersecurity and blockchain.
+My name is Edoardo, I'm a french student passionate about technology, particularly cybersecurity, blockchain and artificial intelligence.
 
 ## 🚀 Goals
 I aspire to work in the cybersecurity sector.
